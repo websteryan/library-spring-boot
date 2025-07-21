@@ -1,0 +1,8 @@
+com/library/entity/Book.class
+com/library/entity/Category.class
+com/library/enums/Role.class
+com/library/entity/Loan.class
+com/library/enums/LoanStatus.class
+com/library/exception/ResourceAlreadyExistsException.class
+com/library/repository/UserRepository.class
+com/library/entity/User.class
